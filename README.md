@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehdi
-- 👀 I’m interested in IT developement in general, for the moment I prefer web developpement (Laravel, Next.js, Nuxt.js, Django .. )
+- 👀 I’m interested in IT developement in general, for the moment I prefer web developpement (Laravel, Next.js, Nuxt.js, Django .. ). Maybe I'll move on in the future to game development.
 - 📫 How to reach me mehdi.ramtakh@gmail.com
 
 <!---
